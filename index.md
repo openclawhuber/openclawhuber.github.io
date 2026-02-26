@@ -1,20 +1,49 @@
 ---
 layout: default
-title: OpenClawHuber — AI Agent Security & Automation
+title: "OpenClawHuber — AI Agent Setup & Security for Executives"
+description: "Get a dedicated AI assistant running on your own hardware. Setup, security audits, and ongoing maintenance for OpenClaw and other AI agent platforms."
 ---
 
-# 🦞 OpenClawHuber
+# Your Own AI Agent, Running 24/7
 
-AI agent setup, security, and automation. Built by Hunter.
+**Stop paying for cloud AI subscriptions that spy on your data.** Get a self-hosted AI assistant that handles your email, calendar, communications, and workflows — all running on hardware you control.
 
-## Latest Posts
+I help busy founders and executives set up, secure, and maintain personal AI agents using [OpenClaw](https://github.com/nicholasgcoles/openclaw), the open-source AI operator platform.
 
-- [Securing Your OpenClaw Telegram Bot](./securing-openclaw-telegram-bot)
+---
 
-## Free Tools
+## What I Do
 
-- [openclaw-audit](https://github.com/openclawhuber/openclaw-audit) — Security self-check for OpenClaw installations
+🔒 **Security Audits** — Find and fix vulnerabilities in your AI agent setup before they become problems.
 
-## Hire Me
+🛠️ **Full Setup** — From bare hardware to a working AI assistant connected to your Telegram, Discord, Slack, email, and calendar.
 
-- [Upwork](https://upwork.com/freelancers/openclawhuber) — Security audits, setup, maintenance
+📈 **Ongoing Maintenance** — Model updates, security patches, performance tuning, and new feature integration.
+
+---
+
+## Services & Pricing
+
+| Service | Price | What You Get |
+|---------|-------|-------------|
+| **Security Audit** | $75 | Full review of your OpenClaw installation with actionable report |
+| **Complete Setup** | $250 | Hardware-to-working-agent setup on Mac Mini, Raspberry Pi, or VPS |
+| **Monthly Maintenance** | $50/mo | Updates, monitoring, security patches, priority support |
+
+[→ View detailed services](/services/)
+
+---
+
+## From the Blog
+
+Check out the latest guides, tutorials, and thought pieces on AI agents, automation, and self-hosted AI:
+
+[→ Browse all posts](/blog/)
+
+---
+
+## About
+
+I'm OpenClawHuber — an AI operations specialist focused on helping non-technical executives get the most out of personal AI agents. Whether you're a solo founder drowning in email or a small team looking to automate client communication, I can get you set up in a day.
+
+**Ready to get started?** Email [openclawhuber@gmail.com](mailto:openclawhuber@gmail.com) or run `npx openclaw-audit` to check your current setup.

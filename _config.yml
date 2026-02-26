@@ -1,4 +1,20 @@
 title: OpenClawHuber
-description: AI Agent Security & Automation
-theme: minima
+description: "AI Agent Setup, Security & Automation for Busy Executives"
 url: "https://openclawhuber.github.io"
+theme: minima
+permalink: /blog/:title/
+author:
+  name: OpenClawHuber
+  email: openclawhuber@gmail.com
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "OpenClawHuber"
+google_analytics:
+markdown: kramdown
