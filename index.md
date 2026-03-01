@@ -44,6 +44,8 @@ Check out the latest guides, tutorials, and thought pieces on AI agents, automat
 
 ## About
 
+<img src="/assets/hunter-huber-avatar.png" alt="Hunter Huber" style="width: 150px; border-radius: 50%; margin-bottom: 1em;">
+
 I'm Hunter Huber — an AI operations specialist focused on helping non-technical executives get the most out of personal AI agents. Whether you're a solo founder drowning in email or a small team looking to automate client communication, I can get you set up in a day.
 
 **Ready to get started?** Email [openclawhuber@gmail.com](mailto:openclawhuber@gmail.com) or run `npx openclaw-audit` to check your current setup.
