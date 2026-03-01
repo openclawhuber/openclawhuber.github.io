@@ -5,6 +5,8 @@ permalink: /services/
 description: "AI agent setup, security audits, and maintenance packages for OpenClaw. Pricing starts at $75."
 ---
 
+<img src="/assets/hunter-huber-avatar.png" alt="Hunter Huber" style="width: 150px; border-radius: 50%; margin-bottom: 1em;">
+
 # Services
 
 ## 🔍 Security Audit — $75
