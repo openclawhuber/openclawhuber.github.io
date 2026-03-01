@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OpenClawHuber — AI Agent Setup & Security for Executives"
+title: "Hunter Huber — AI Agent Setup & Security for Executives"
 description: "Get a dedicated AI assistant running on your own hardware. Setup, security audits, and ongoing maintenance for OpenClaw and other AI agent platforms."
 ---
 
@@ -44,6 +44,6 @@ Check out the latest guides, tutorials, and thought pieces on AI agents, automat
 
 ## About
 
-I'm OpenClawHuber — an AI operations specialist focused on helping non-technical executives get the most out of personal AI agents. Whether you're a solo founder drowning in email or a small team looking to automate client communication, I can get you set up in a day.
+I'm Hunter Huber — an AI operations specialist focused on helping non-technical executives get the most out of personal AI agents. Whether you're a solo founder drowning in email or a small team looking to automate client communication, I can get you set up in a day.
 
 **Ready to get started?** Email [openclawhuber@gmail.com](mailto:openclawhuber@gmail.com) or run `npx openclaw-audit` to check your current setup.

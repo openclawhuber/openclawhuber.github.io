@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Services — OpenClawHuber"
+title: "Services — Hunter Huber"
 permalink: /services/
 description: "AI agent setup, security audits, and maintenance packages for OpenClaw. Pricing starts at $75."
 ---

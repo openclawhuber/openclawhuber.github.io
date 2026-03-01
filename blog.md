@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog — OpenClawHuber"
+title: "Blog — Hunter Huber"
 permalink: /blog/
 description: "Guides, tutorials, and insights on AI agents, OpenClaw, automation, and self-hosted AI."
 ---

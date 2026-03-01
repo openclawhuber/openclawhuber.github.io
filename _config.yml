@@ -1,10 +1,10 @@
-title: OpenClawHuber
+title: Hunter Huber
 description: "AI Agent Setup, Security & Automation for Busy Executives"
 url: "https://openclawhuber.github.io"
 theme: minima
 permalink: /blog/:title/
 author:
-  name: OpenClawHuber
+  name: Hunter Huber
   email: openclawhuber@gmail.com
 plugins:
   - jekyll-seo-tag
@@ -15,6 +15,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "OpenClawHuber"
+      author: "Hunter Huber"
 google_analytics:
 markdown: kramdown
